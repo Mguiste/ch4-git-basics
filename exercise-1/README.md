@@ -33,3 +33,9 @@ Now I have configured my git account in git bash
 *test 1
 *test 2
 *test 3
+
+# And what this does
+
+1. animal
+1. dog
+3. cat
