@@ -27,3 +27,9 @@ breakfast today
 
 testing this
 Now I have configured my git account in git bash
+
+# lets see what this does
+
+*test 1
+*test 2
+*test 3
