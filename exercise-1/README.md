@@ -36,8 +36,10 @@ Now I have configured my git account in git bash
 
 # And what this does
 
-1. animal
+1. `animal`
 1. dog
 3. cat
 
 # One more markdown
+
+*Atom*
